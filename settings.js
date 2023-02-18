@@ -1,19 +1,19 @@
 /**
-   * Made By Fandyyy 🕴️
-   * Subscribe FBOTZ YT
-   * Follow https://instagram.com/_nzrlafndi
-   * Follow https://github.com/FBOTZ-YT
+   * Made By Unknown 🕴️
+   * Subscribe Unknown 
+   * Follow https://instagram.com/miawaug
+   * Follow https://github.com/Ajabsbshsisi 
 */
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
-global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
-global.packname = 'Subscribe YT' //Ganti Jadi Nama Botmu
-global.author = 'NZRLAFNDI' //Ganti Jadi Namamu
+global.ownerNumber = ['6287756593163','6287756593163'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6287756593163' //Owner Utama
+global.ownerName = 'WINDSTERLING' //Ganti Jadi Namamu
+global.packname = 'Renn' //Ganti Jadi Nama Botmu
+global.author = 'HumanAreFools' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
 global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
